@@ -1,4 +1,7 @@
 venv
+.idea
+__pycache__
+*.pyc
 
 # Unity-spezifisch (rekursiv für alle Unity-Projekte im Repo)
 **/[Ll]ibrary/
